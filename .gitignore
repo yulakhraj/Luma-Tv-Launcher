@@ -1,0 +1,6 @@
+out/
+.local/
+*.jks
+*.keystore
+*.apk
+.DS_Store
